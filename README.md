@@ -1,3 +1,4 @@
+ABDULLAHI MOHAMMAD RAJAH PROJECT On
 # Diabetes Prediction System Using KNN
 
 This project predicts the likelihood of diabetes using the K-Nearest Neighbors algorithm.
